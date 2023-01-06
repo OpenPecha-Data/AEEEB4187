@@ -1,0 +1,19 @@
+id: AEEEB4187
+title: Prayer to Drukpa Kunley
+type: translation
+pechas:
+- I95FAAF98
+- I886A663E
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:46:00.968635
+  last_modified_at: 2023-01-04 11:46:00.968647
+  collections:
+  - Drukpa Kunley Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I95FAAF98/1388: '0355'
+  I886A663E/7575: '0355'
